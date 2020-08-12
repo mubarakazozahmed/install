@@ -1,5 +1,5 @@
 
-{"version_code":999999999,"content":"
+{"version_code":454021,"msg":"content"
 
 <p> WhatsBeko3 V1 </p>
 <p> •تجريب رسالة انبثاق من المدير</p>
